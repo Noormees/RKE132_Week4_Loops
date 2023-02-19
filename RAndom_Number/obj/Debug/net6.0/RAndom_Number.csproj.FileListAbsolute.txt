@@ -1,0 +1,15 @@
+C:\Users\Noormees\source\repos\Week_Loops\RAndom_Number\bin\Debug\net6.0\RAndom_Number.exe
+C:\Users\Noormees\source\repos\Week_Loops\RAndom_Number\bin\Debug\net6.0\RAndom_Number.deps.json
+C:\Users\Noormees\source\repos\Week_Loops\RAndom_Number\bin\Debug\net6.0\RAndom_Number.runtimeconfig.json
+C:\Users\Noormees\source\repos\Week_Loops\RAndom_Number\bin\Debug\net6.0\RAndom_Number.dll
+C:\Users\Noormees\source\repos\Week_Loops\RAndom_Number\bin\Debug\net6.0\RAndom_Number.pdb
+C:\Users\Noormees\source\repos\Week_Loops\RAndom_Number\obj\Debug\net6.0\RAndom_Number.csproj.AssemblyReference.cache
+C:\Users\Noormees\source\repos\Week_Loops\RAndom_Number\obj\Debug\net6.0\RAndom_Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noormees\source\repos\Week_Loops\RAndom_Number\obj\Debug\net6.0\RAndom_Number.AssemblyInfoInputs.cache
+C:\Users\Noormees\source\repos\Week_Loops\RAndom_Number\obj\Debug\net6.0\RAndom_Number.AssemblyInfo.cs
+C:\Users\Noormees\source\repos\Week_Loops\RAndom_Number\obj\Debug\net6.0\RAndom_Number.csproj.CoreCompileInputs.cache
+C:\Users\Noormees\source\repos\Week_Loops\RAndom_Number\obj\Debug\net6.0\RAndom_Number.dll
+C:\Users\Noormees\source\repos\Week_Loops\RAndom_Number\obj\Debug\net6.0\refint\RAndom_Number.dll
+C:\Users\Noormees\source\repos\Week_Loops\RAndom_Number\obj\Debug\net6.0\RAndom_Number.pdb
+C:\Users\Noormees\source\repos\Week_Loops\RAndom_Number\obj\Debug\net6.0\RAndom_Number.genruntimeconfig.cache
+C:\Users\Noormees\source\repos\Week_Loops\RAndom_Number\obj\Debug\net6.0\ref\RAndom_Number.dll

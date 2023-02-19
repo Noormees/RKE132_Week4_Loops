@@ -1,0 +1,15 @@
+C:\Users\Noormees\source\repos\Week_Loops\While_loops\bin\Debug\net6.0\While_loops.exe
+C:\Users\Noormees\source\repos\Week_Loops\While_loops\bin\Debug\net6.0\While_loops.deps.json
+C:\Users\Noormees\source\repos\Week_Loops\While_loops\bin\Debug\net6.0\While_loops.runtimeconfig.json
+C:\Users\Noormees\source\repos\Week_Loops\While_loops\bin\Debug\net6.0\While_loops.dll
+C:\Users\Noormees\source\repos\Week_Loops\While_loops\bin\Debug\net6.0\While_loops.pdb
+C:\Users\Noormees\source\repos\Week_Loops\While_loops\obj\Debug\net6.0\While_loops.csproj.AssemblyReference.cache
+C:\Users\Noormees\source\repos\Week_Loops\While_loops\obj\Debug\net6.0\While_loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noormees\source\repos\Week_Loops\While_loops\obj\Debug\net6.0\While_loops.AssemblyInfoInputs.cache
+C:\Users\Noormees\source\repos\Week_Loops\While_loops\obj\Debug\net6.0\While_loops.AssemblyInfo.cs
+C:\Users\Noormees\source\repos\Week_Loops\While_loops\obj\Debug\net6.0\While_loops.csproj.CoreCompileInputs.cache
+C:\Users\Noormees\source\repos\Week_Loops\While_loops\obj\Debug\net6.0\While_loops.dll
+C:\Users\Noormees\source\repos\Week_Loops\While_loops\obj\Debug\net6.0\refint\While_loops.dll
+C:\Users\Noormees\source\repos\Week_Loops\While_loops\obj\Debug\net6.0\While_loops.pdb
+C:\Users\Noormees\source\repos\Week_Loops\While_loops\obj\Debug\net6.0\While_loops.genruntimeconfig.cache
+C:\Users\Noormees\source\repos\Week_Loops\While_loops\obj\Debug\net6.0\ref\While_loops.dll

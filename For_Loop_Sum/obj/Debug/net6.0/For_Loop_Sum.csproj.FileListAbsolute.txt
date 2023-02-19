@@ -1,0 +1,15 @@
+C:\Users\Noormees\source\repos\Week_Loops\For_Loop_Sum\bin\Debug\net6.0\For_Loop_Sum.exe
+C:\Users\Noormees\source\repos\Week_Loops\For_Loop_Sum\bin\Debug\net6.0\For_Loop_Sum.deps.json
+C:\Users\Noormees\source\repos\Week_Loops\For_Loop_Sum\bin\Debug\net6.0\For_Loop_Sum.runtimeconfig.json
+C:\Users\Noormees\source\repos\Week_Loops\For_Loop_Sum\bin\Debug\net6.0\For_Loop_Sum.dll
+C:\Users\Noormees\source\repos\Week_Loops\For_Loop_Sum\bin\Debug\net6.0\For_Loop_Sum.pdb
+C:\Users\Noormees\source\repos\Week_Loops\For_Loop_Sum\obj\Debug\net6.0\For_Loop_Sum.csproj.AssemblyReference.cache
+C:\Users\Noormees\source\repos\Week_Loops\For_Loop_Sum\obj\Debug\net6.0\For_Loop_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noormees\source\repos\Week_Loops\For_Loop_Sum\obj\Debug\net6.0\For_Loop_Sum.AssemblyInfoInputs.cache
+C:\Users\Noormees\source\repos\Week_Loops\For_Loop_Sum\obj\Debug\net6.0\For_Loop_Sum.AssemblyInfo.cs
+C:\Users\Noormees\source\repos\Week_Loops\For_Loop_Sum\obj\Debug\net6.0\For_Loop_Sum.csproj.CoreCompileInputs.cache
+C:\Users\Noormees\source\repos\Week_Loops\For_Loop_Sum\obj\Debug\net6.0\For_Loop_Sum.dll
+C:\Users\Noormees\source\repos\Week_Loops\For_Loop_Sum\obj\Debug\net6.0\refint\For_Loop_Sum.dll
+C:\Users\Noormees\source\repos\Week_Loops\For_Loop_Sum\obj\Debug\net6.0\For_Loop_Sum.pdb
+C:\Users\Noormees\source\repos\Week_Loops\For_Loop_Sum\obj\Debug\net6.0\For_Loop_Sum.genruntimeconfig.cache
+C:\Users\Noormees\source\repos\Week_Loops\For_Loop_Sum\obj\Debug\net6.0\ref\For_Loop_Sum.dll

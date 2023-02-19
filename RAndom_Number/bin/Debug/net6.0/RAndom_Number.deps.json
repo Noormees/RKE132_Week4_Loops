@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RAndom_Number/1.0.0": {
+        "runtime": {
+          "RAndom_Number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RAndom_Number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
